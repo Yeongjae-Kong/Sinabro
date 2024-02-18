@@ -7,10 +7,15 @@
 "하루하루, 조금씩 변화하는 당신의 소중한 순간들을 시나브로와 함께 기록하세요."
 
 ## 사용된 기술
+
 Language: Kotlin
+
 Database: SQLite
-OS: Android 8.0 (minSdk = 24, targetSdk = 33)
+
+OS: Android 8.0 (minSdk = 24, targetSdk = 33
+
 IDE: Android Studio
+
 Target Device: Galaxy S7
 
 ## 탭별 기능
